@@ -22,7 +22,20 @@ Un simple juego de aterrizaje de cohete construido con Python y PyGame.
 - Python 3.x
 - pygame
 
-Instalar dependencias:
+## 📥 Instalación
+
+1. Asegúrate de tener Python 3.x instalado
+2. Instala las dependencias:
 
 ```bash
 pip install pygame-ce
+```
+
+## 🎯 Cómo Iniciar el Juego
+
+1. Asegúrate de estar en el directorio del juego
+2. Ejecuta el siguiente comando:
+
+```bash
+python main.py
+```
